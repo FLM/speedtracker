@@ -36,7 +36,6 @@ class Dashboard extends React.Component {
                   'breakdown.html.bytes',
                   'breakdown.js.bytes',
                   'breakdown.css.bytes',
-                  'breakdown.image.bytes',
                   'breakdown.flash.bytes',
                   'breakdown.font.bytes',
                   'breakdown.other.bytes'
